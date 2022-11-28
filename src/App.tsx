@@ -4,7 +4,7 @@ import { Login } from "./Login";
 import { AdminPage } from "./AdminPage";
 
 // export const baseUrl = "http://localhost:3000";
-export const baseUrl = "https://chat-backend-kappa.vercel.app/";
+export const baseUrl = "https://chat-backend-kappa.vercel.app";
 
 export type User = {
   id: number;
